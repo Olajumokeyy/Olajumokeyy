@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-I’m a **Senior Product Manager** with over 5 years of experience in **fintech**, leading cross-functional teams to deliver **payments**, **cross-border payment** and **Stablecoin remittance** products for both **B2B** and **B2C** audiences.
+I’m a **Senior Technical Product Manager** with over 5 years of experience in **fintech**, leading cross-functional teams to deliver **payments**, **cross-border payment** and **Stablecoin remittance** products for both **B2B** and **B2C** audiences.
 
 With a background in fintech product management and a deepening technical focus in **Data Science & AI,** I bring the best of both worlds (strategic vision and analytical precision) to every product I build.
 
@@ -17,7 +17,7 @@ With a background in fintech product management and a deepening technical focus 
 
 ### 💡 Focus Areas
 - AI & Data Science for fintech innovation  
-- Fintech, Crypto & Cross-border Payments  
+- Fintech, Crypto & Cross-border Payments for Businesses
 - Experimentation & Analytics 
 
 ---
@@ -25,7 +25,7 @@ With a background in fintech product management and a deepening technical focus 
 ### 🧰 Skills & Tools
 **Product:** Strategy • Roadmapping • Research • PRD Writing • Stakeholder Management  
 **Tech:** SQL • Python • APIs • Figma • Jira • Postman • Blockchain
-**Other:** Data Analytics • Agile Methodologies • Product Growth  
+**Other:** Data Analytics • Agile Methodologies • Product Growth  • Developer Experience
 
 ---
 
